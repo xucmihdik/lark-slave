@@ -17,4 +17,4 @@ async def on_ready():
 async def ping_command(interaction: discord.Interaction):
     await interaction.response.send_message(f"Pong! 🏓 `{round(client.latency * 1000)}ms`")
 
-client.run("MTM4MzY5NjMwOTUxNjc2NzI5Mg.G1hefJ.MSfkcYR3YIf60IX9MPiCGYiHoIjeh4hTRO0Tvw")
+client.run("MTM4MzY5NjMwOTUxNjc2NzI5Mg.G_t0Lp.4dQ0q-4xZ_q3ESwnVQ2PzhMI0-Sas7CcnBy02M")
