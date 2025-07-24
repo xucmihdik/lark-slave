@@ -4,6 +4,7 @@ from discord import app_commands, ui
 import asyncio
 import io
 import time
+import os
 
 # ⚠️ Fake token for testing
 GUILD_ID = 1394313660482064487
